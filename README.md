@@ -30,7 +30,6 @@ Here's an overview of files Structure
 │   └── crypto.js         # MongoDB schema
 ├── routes/
 │   └── cryptoRoute.js   # API routes
-├── cronJob.js           # Cron job setup
 ├── app.js               # Main server file
 ├── .env                 # Environment variables
 └── package.json
